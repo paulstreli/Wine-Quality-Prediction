@@ -1,0 +1,1 @@
+﻿The data folder contains the two datasets winequality-red.csv and winequality-white.csv from https://archive.ics.uci.edu/ml/datasets/Wine+Quality.
